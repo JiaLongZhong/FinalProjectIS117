@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0d242e6-9957-4911-a7da-cd255e65563f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Web1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/Back1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/Back3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/back2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BrowserWar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DotCom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InternetSearch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Invention.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/People.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timeline.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +61,24 @@
       <workItem from="1620239852718" duration="3487000" />
       <workItem from="1620243793765" duration="1025000" />
       <workItem from="1620245307268" duration="4807000" />
-      <workItem from="1620252636524" duration="2861000" />
+      <workItem from="1620252636524" duration="4456000" />
+      <workItem from="1620258685450" duration="3053000" />
     </task>
+    <task id="LOCAL-00001" summary="Add 3 website Homepage">
+      <created>1620255607074</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620255607074</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add 3 website Homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 3 website Homepage" />
   </component>
 </project>
