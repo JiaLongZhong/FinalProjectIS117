@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0d242e6-9957-4911-a7da-cd255e65563f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Browser.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Facebook2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LegalAspects.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LookAlike.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maximum.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snowden1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snowden2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Surveillance.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tracked.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BrowserWar.html" beforeDir="false" afterPath="$PROJECT_DIR$/BrowserWar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DNS.html" beforeDir="false" afterPath="$PROJECT_DIR$/DNS.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domain.html" beforeDir="false" afterPath="$PROJECT_DIR$/Domain.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DotCom.html" beforeDir="false" afterPath="$PROJECT_DIR$/DotCom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTTP.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTTP.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IP.html" beforeDir="false" afterPath="$PROJECT_DIR$/IP.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InternetSearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/InternetSearch.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/Invention.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/People.html" beforeDir="false" afterPath="$PROJECT_DIR$/People.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Timeline.html" beforeDir="false" afterPath="$PROJECT_DIR$/Timeline.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3C.html" beforeDir="false" afterPath="$PROJECT_DIR$/W3C.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web3.html" afterDir="false" />
-    </list>
+    <list default="true" id="d0d242e6-9957-4911-a7da-cd255e65563f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +38,8 @@
       <recent name="C:\Users\Jia Zhong\WebstormProjects\FinalProjectIS117\image" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jia Zhong\WebstormProjects\FinalProjectIS117\docs" />
+      <recent name="C:\Users\Jia Zhong\WebstormProjects\FinalProjectIS117" />
       <recent name="C:\Users\Jia Zhong\WebstormProjects\FinalProjectIS117\image" />
     </key>
   </component>
@@ -79,7 +55,7 @@
       <workItem from="1620243793765" duration="1025000" />
       <workItem from="1620245307268" duration="4807000" />
       <workItem from="1620252636524" duration="4456000" />
-      <workItem from="1620258685450" duration="8001000" />
+      <workItem from="1620258685450" duration="8330000" />
     </task>
     <task id="LOCAL-00001" summary="Add 3 website Homepage">
       <created>1620255607074</created>
@@ -102,7 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620263613240</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Complete Website3">
+      <created>1620266793454</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620266793454</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create Doc folder">
+      <created>1620267016769</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620267016769</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +102,8 @@
     <MESSAGE value="Add 3 website Homepage" />
     <MESSAGE value="Complete First Website" />
     <MESSAGE value="Complete Second Website" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete Second Website" />
+    <MESSAGE value="Complete Website3" />
+    <MESSAGE value="Create Doc folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Doc folder" />
   </component>
 </project>
