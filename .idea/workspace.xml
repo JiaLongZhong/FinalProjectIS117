@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0d242e6-9957-4911-a7da-cd255e65563f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BrowserWar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DotCom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InternetSearch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Invention.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/People.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Timeline.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DNS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Domain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTTP.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IP.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W3C.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
       <workItem from="1620243793765" duration="1025000" />
       <workItem from="1620245307268" duration="4807000" />
       <workItem from="1620252636524" duration="4456000" />
-      <workItem from="1620258685450" duration="3053000" />
+      <workItem from="1620258685450" duration="4867000" />
     </task>
     <task id="LOCAL-00001" summary="Add 3 website Homepage">
       <created>1620255607074</created>
@@ -71,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620255607074</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Complete First Website">
+      <created>1620262028668</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620262028668</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +85,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add 3 website Homepage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 3 website Homepage" />
+    <MESSAGE value="Complete First Website" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete First Website" />
   </component>
 </project>
