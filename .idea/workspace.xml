@@ -3,29 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d0d242e6-9957-4911-a7da-cd255e65563f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Browser.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Browser.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BrowserWar.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BrowserWar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/DNS.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/DNS.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Domain.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Domain.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/DotCom.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/DotCom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/HTTP.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/HTTP.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/IP.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/IP.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/InternetSearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/InternetSearch.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Invention.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/LegalAspects.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/LegalAspects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/LookAlike.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/LookAlike.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Maximum.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Maximum.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/People.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/People.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Snowden1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Snowden1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Snowden2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Snowden2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Surveillance.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Surveillance.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Timeline.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Timeline.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Tracked.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Tracked.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/W3C.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/W3C.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Web1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Web1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Web2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Web2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Web3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Web3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +59,9 @@
       <workItem from="1620252636524" duration="4456000" />
       <workItem from="1620258685450" duration="8753000" />
       <workItem from="1620324765994" duration="52000" />
-      <workItem from="1620521679464" duration="3074000" />
+      <workItem from="1620521679464" duration="3257000" />
+      <workItem from="1620611610338" duration="618000" />
+      <workItem from="1620655556154" duration="843000" />
     </task>
     <task id="LOCAL-00001" summary="Add 3 website Homepage">
       <created>1620255607074</created>
@@ -140,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620523126307</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add google tracking for all sites">
+      <created>1620524937263</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1620524937263</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +141,7 @@
     <MESSAGE value="Update readme.md" />
     <MESSAGE value="add favicon in each site" />
     <MESSAGE value="hero image added" />
-    <option name="LAST_COMMIT_MESSAGE" value="hero image added" />
+    <MESSAGE value="add google tracking for all sites" />
+    <option name="LAST_COMMIT_MESSAGE" value="add google tracking for all sites" />
   </component>
 </project>
